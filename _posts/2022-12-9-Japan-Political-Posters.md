@@ -15,6 +15,8 @@ article_header:
 
 ## Osaka
 
+大阪的政治海报是最多的，因为穿行于日本小巷子的大部分时间都在大阪，也只有深入到巷子里才能体会到与景点不一样的空气。
+
 ![IMG_3043](./../media/2022-12-9-Japan-Political-Posters/IMG_3043.JPEG)
 
 ![IMG_3044](./../media/2022-12-9-Japan-Political-Posters/IMG_3044.JPEG)
