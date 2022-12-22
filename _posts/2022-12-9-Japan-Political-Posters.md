@@ -32,3 +32,13 @@ article_header:
 ![IMG_3105](./../media/2022-12-9-Japan-Political-Posters/IMG_3105.JPEG)
 
 ![IMG_3106](./../media/2022-12-9-Japan-Political-Posters/IMG_3106.JPEG)
+
+## 宇治
+
+利兹与青鸟也是反战片（
+
+![IMG_3204](./../media/2022-12-9-Japan-Political-Posters/IMG_3204.JPEG)
+
+![IMG_3193](./../media/2022-12-9-Japan-Political-Posters/IMG_3193.JPEG)
+
+![IMG_3206](./../media/2022-12-9-Japan-Political-Posters/IMG_3206.JPEG)
