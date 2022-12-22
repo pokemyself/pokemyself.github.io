@@ -42,3 +42,9 @@ article_header:
 ![IMG_3193](./../media/2022-12-9-Japan-Political-Posters/IMG_3193.JPEG)
 
 ![IMG_3206](./../media/2022-12-9-Japan-Political-Posters/IMG_3206.JPEG)
+
+## 京都
+
+最多种类在一起的日共海报就在京都
+
+![IMG_3490](./../media/2022-12-9-Japan-Political-Posters/IMG_3490.JPEG)
