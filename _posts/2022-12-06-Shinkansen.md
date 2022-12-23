@@ -1,6 +1,7 @@
 ---
 title: Shinkansen
 tags: 2022Japan
+cover:./../media/2022-12-06-Shinkansen/cover_shinkansen_1.JPEG
 article_header:
   type: cover
   image:

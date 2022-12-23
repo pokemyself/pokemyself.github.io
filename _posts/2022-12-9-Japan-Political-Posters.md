@@ -1,15 +1,18 @@
 ---
 title: Japan Political Posters
 tags: 2022Japan
+cover:./../media/2022-12-9-Japan-Political-Posters/politial_cover.JPEG
 article_header:
   type: cover
   image:
-    src:
+    src:./../media/2022-12-9-Japan-Political-Posters/IMG_3043_2.JPEG
 ---
 
 # Japan Political Posters
 
 一路上见到的政党海报实在是太多了，如果全部插入到正文会影响观感，所以开一个单独的post来展示这些海报。
+
+
 
 <!--more-->
 
