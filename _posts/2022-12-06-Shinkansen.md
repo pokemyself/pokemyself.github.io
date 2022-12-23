@@ -36,7 +36,9 @@ article_header:
 
 ![IMG_3665](./../media/2022-12-06-Shinkansen/IMG_3665.JPEG)
 
+[【京都站新干线月台眺望在来线（意义不明）】](https://www.bilibili.com/video/BV1dV4y1c72U/?share_source=copy_web&vd_source=11cc2c31f0b4e6576a1a2b9d744d9136)
 
+<iframe src="//player.bilibili.com/player.html?aid=861551498&bvid=BV1dV4y1c72U&cid=933420428&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 列车还没出站就已经开始加速了，和国内高铁等到了乡下再提速感觉快了不少。日本这种摊大饼式的城市规划也让新干线跑到乡下需要很久，所以列车就在城市中高架铁路桥上飞驰。
 
@@ -64,7 +66,9 @@ article_header:
 
 最后来看一下我和航桑在小田原拍摄的待避和跃行的新干线吧。
 
+[【小田园新干线合集】](https://www.bilibili.com/video/BV1Ke4y1T7zw/?share_source=copy_web&vd_source=11cc2c31f0b4e6576a1a2b9d744d9136)  
 
+<iframe src="//player.bilibili.com/player.html?aid=649014309&bvid=BV1Ke4y1T7zw&cid=933435996&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 中转站小田原城与箱根汤本
 
