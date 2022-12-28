@@ -34,7 +34,7 @@ timezone: CN # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones 
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : "person" # "person" (default), "organization"
   name      : pokemyself
   url       :
   avatar    : "./favicon.ico"
@@ -108,11 +108,11 @@ sources: # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: false # false (default), "addtoany", "addthis", "custom"
+  provider: addthis # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
-    id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
+    id: ra-63abefa4ef0647c1 # AddThis pubid, e.g. ra-5xxxxxxxxxxx
 
 
 ## => Comments
