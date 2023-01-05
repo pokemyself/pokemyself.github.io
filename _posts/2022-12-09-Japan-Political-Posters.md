@@ -5,7 +5,7 @@ cover: ./../media/2022-12-09-Japan-Political-Posters/politial_cover.JPEG
 article_header:
   type: cover
   image:
-    src:./../media/2022-12-09-Japan-Political-Posters/IMG_3043_2.JPEG
+    src: ./../media/2022-12-09-Japan-Political-Posters/IMG_3043_2.JPEG
 ---
 
 # Japan Political Posters
