@@ -1,6 +1,6 @@
 ---
 title: Japan Political Posters
-tags: 2022Japan
+tags: 2022Japan 旅游
 cover: ./../media/2022-12-09-Japan-Political-Posters/politial_cover.JPEG
 article_header:
   type: cover

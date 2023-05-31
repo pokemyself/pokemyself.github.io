@@ -1,6 +1,6 @@
 ---
 title: 上海没有爱情故事【留档】
-tags: 日常 留档 随心记
+tags: 日常 留档 随心记 旅游
 cover: ./../media/2023-05-06-Shanghai-no-love-story/IMG_5486.JPEG
 article_header: 
   type: cover

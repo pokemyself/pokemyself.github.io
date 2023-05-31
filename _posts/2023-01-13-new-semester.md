@@ -1,10 +1,6 @@
 ---
-title: 新学期杂记
-tags: 日常 NUS
-cover: ./../media/2023-01-13-new-semester/IMG_4129.JPEG
-article_header:
-  type: cover
-  image:
+title: 随心记 2023-01 新学期
+tags: 随心记 NUS
     src: ./../media/2023-01-13-new-semester/IMG_4134.JPEG
 ---
 

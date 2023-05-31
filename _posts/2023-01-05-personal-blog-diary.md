@@ -1,6 +1,6 @@
 ---
 title: pokemyselfの建站杂记
-tags: 2022Japan 个人博客
+tags: 2022Japan 博客建站
 cover: ./../media/2023-01-05-personal-blog-diary/IMG_4053.JPG
 article_header:
   type: cover
