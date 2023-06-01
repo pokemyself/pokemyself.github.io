@@ -304,7 +304,7 @@ update: 已经快三周了我还在咳，这几周人就没来全过，时不时
 
 这一个月其实处在一个持续的自我感动和戒断反应中……自作孽不可活。为了不污染正文留档处理了，再一个朋友圈也发过全文。
 
-https://pokemyself.github.io/Shanghai-no-love-story.html
+[https://pokemyself.github.io/Shanghai-no-love-story.html](https://pokemyself.github.io/Shanghai-no-love-story.html)
 
 我越发觉得每一次情感宣泄的背后都是对自我的补完尝试。五年前可能是在寻找一个勤奋踏实肯干的形象，现在则是在试图弥补大学时代失去的人生的广度。以至于面对真人的时候还能淡化感情保持克制，还时不时涌现出一种释然感。但是到了深夜里孤身一人，独自面对自己残破不堪的灵魂之时，永无止境的发癫就开始了。所谓的“不要试图忘记，开始新一段恋情，上一段自然会淡出”的说辞，怎么看都变成了人生自我满足的转向。
 
