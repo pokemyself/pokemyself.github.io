@@ -150,9 +150,9 @@ article_header:
 
 ![IMG_5407](./../media/2023-06-01-Shanghai-and-start-to-work/IMG_5407.JPEG)
 
-![FullSizeRender](./../media/2023-06-01-Shanghai-and-start-to-work/FullSizeRender.jpg)
+![49fdb25921ede42e9c30e498701858ed](./../media/2023-06-01-Shanghai-and-start-to-work/49fdb25921ede42e9c30e498701858ed.jpg)
 
-![FullSizeRender1](./../media/2023-06-01-Shanghai-and-start-to-work/FullSizeRender1.jpg)
+![a12aae3dc877408341da3cb2487fb835](./../media/2023-06-01-Shanghai-and-start-to-work/a12aae3dc877408341da3cb2487fb835.jpg)
 
 第三天也就是临走那天晚上睡不着，还去海底捞找他们疯狂贴贴。其中还有一件特别好玩的事：一遍是喝酒略微上头的我，另一边是听完演唱会累得半死不活的两人。我看着包包上的星戴璐（迪士尼兔子）和他们说下午听说的达菲一家小动物组CP的事，结果没想到他们两个也聊了这个话题，我恍惚之间还以为是我酒喝多了把中午和下午的事记混了，确实没想到两拨人竟然能不约而同聊到相似的话题。
 
