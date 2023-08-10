@@ -210,9 +210,7 @@ article_header:
 
 ![IMG_6541](./../media/2023-08-01-Boring-Intern-Time/IMG_6541.JPEG)
 
-
-
-人选之人造浪者
+### 人选之人造浪者
 
 不太好评价，综合来说4🌟
 
@@ -221,8 +219,6 @@ article_header:
 接下来是直男癌发情时间：实在是太喜欢亚静这种勇敢坚强的美少女了，赞爆！🥰
 
 ![IMG_6785](./../media/2023-08-01-Boring-Intern-Time/IMG_6785.JPEG)
-
-
 
 ### 机动搜查队404
 
