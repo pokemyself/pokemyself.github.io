@@ -1,6 +1,6 @@
 ---
 title: 上海游记与工作的开始 2023-05
-tags: 随心记 工作 旅游 日常
+tags: 随心记 工作 旅游
 cover: ./../media/2023-06-01-Shanghai-and-start-to-work/IMG_5501.JPEG
 article_header:
   type: cover
