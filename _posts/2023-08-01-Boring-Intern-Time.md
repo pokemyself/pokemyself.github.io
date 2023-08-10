@@ -1,11 +1,11 @@
 ---
 title: 六月与七月，平淡的实习时光
 tags: 工作 随心记
-cover: 
+cover: ./../media/2023-08-01-Boring-Intern-Time/IMG_6860.PNG
 article_header:
   type: cover
   image:
-    src: 
+    src: ./../media/2023-08-01-Boring-Intern-Time/IMG_6486.JPG
 ---
 
 开始写这玩意的时候已经进入到八月了。过了感情过山车和工作第一个月的挣扎之后，一切开始步入正轨，也因此开始逐渐平淡。
