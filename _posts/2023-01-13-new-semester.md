@@ -1,6 +1,6 @@
 ---
 title: 新学期杂记
-tags: 随心记 NUS
+tags: 随心记
 cover: ./../media/2023-01-13-new-semester/IMG_4129.JPEG
 article_header:
   type: cover
