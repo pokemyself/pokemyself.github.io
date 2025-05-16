@@ -1,11 +1,11 @@
 ---
 title: 定居上海一周年
 tags: 随心记
-cover: ./../media/2015-05-17-one-year-in-shanghai/image-20250516095720482.png
+cover: ./../media/2025-05-17-one-year-in-shanghai/image-20250516095720482.png
 article_header:
   type: cover
   image:
-    src: ./../media/2015-05-17-one-year-in-shanghai/image-20250516095658796.png
+    src: ./../media/2025-05-17-one-year-in-shanghai/image-20250516095658796.png
 ---
 
 <!--more-->
